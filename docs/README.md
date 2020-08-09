@@ -2,6 +2,8 @@
 
 AntiAdmin is a userscript/browser extension that automatically disables permissions and redirects when adding a bot to a Discord server. [Click here to quick install.](https://github.com/gideontong/AntiAdmin/raw/master/antiadmin.user.js)
 
+![Preview](https://i.imgur.com/ieIyvmk.png)
+
 ## What this means
 
 Too often, when you are adding a bot to a Discord server, it asks for all kinds of weird permsissions, and takes you to all kinds of weird websites. This puts and end to that, and prevents the bot from automatically creating a role for itself as well.
