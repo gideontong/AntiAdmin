@@ -10,7 +10,7 @@ Too often, when you are adding a bot to a Discord server, it asks for all kinds 
 
 ## Premise
 
-This script was created by one Discord server admin's frustration with how many bots wanted the "admin" role, when normal moderators weren't allowed to have this role themselves. Servers should operating in a zero-trust environment, where they assume everything and everyone is potentially malicious.
+This script was created by one Discord server admin's frustration with how many bots wanted the "admin" role, when normal moderators weren't allowed to have this role themselves. Servers should be operating in a zero-trust environment, where they assume everything and everyone is potentially malicious.
 
 ## Getting Started
 
